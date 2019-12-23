@@ -16,5 +16,6 @@ public class DownCasting {
         Father f = new Father();
         Father c = new Child();
         System.out.println(f instanceof Child);
+        System.out.println(c instanceof Child);
     }
 }
