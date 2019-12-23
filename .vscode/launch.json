@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - DownCasting",
             "request": "launch",
+            "mainClass": "basic.DownCasting",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DownCasting",
+            "request": "launch",
             "mainClass": "DownCasting"
         }
     ]
