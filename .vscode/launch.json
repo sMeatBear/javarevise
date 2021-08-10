@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SetViewTest",
+            "request": "launch",
+            "mainClass": "basic.SetViewTest",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnnotationTest",
+            "request": "launch",
+            "mainClass": "basic.AnnotationTest",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsTest",
+            "request": "launch",
+            "mainClass": "basic.GenericsTest",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticBlockTest",
+            "request": "launch",
+            "mainClass": "basic.StaticBlockTest",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DownCasting",
             "request": "launch",
             "mainClass": "basic.DownCasting",
