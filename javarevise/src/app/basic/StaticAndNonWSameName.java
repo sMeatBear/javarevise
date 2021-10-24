@@ -6,7 +6,7 @@ class FatherTestClass {
     }
 }
 public class StaticAndNonWSameName extends FatherTestClass {
-    public void test() {
+    public static void test() {
         System.out.println("test");
     }
 }

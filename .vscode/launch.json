@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ClimbStairs",
+            "request": "launch",
+            "mainClass": "basic.ClimbStairs",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
             "name": "Launch SetViewTest",
             "request": "launch",
             "mainClass": "basic.SetViewTest",
