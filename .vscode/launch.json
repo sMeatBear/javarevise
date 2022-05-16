@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "proxy.Client",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch CRUDImpl",
+            "request": "launch",
+            "mainClass": "proxy.CRUDImpl",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProxyTest",
+            "request": "launch",
+            "mainClass": "proxy.ProxyTest",
+            "projectName": "javarevise"
+        },
+        {
+            "type": "java",
             "name": "Launch StringNewLineTest",
             "request": "launch",
             "mainClass": "basic.StringNewLineTest",
